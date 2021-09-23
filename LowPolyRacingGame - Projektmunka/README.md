@@ -1,10 +1,15 @@
 Felhasznált assetek, pluginok:
 
 RoadArchitect - https://github.com/MicroGSD/RoadArchitect
+
 Low-Poly Simple Nature Pack by JustCreate
+
 Low Poly Rock Pack by Broken Vector
+
 Low Poly Cliff Pack by Broken Vector
+
 ARCADE: FREE Racing Car by Mena
+
 GameDevChef's CarController : https://github.com/GameDevChef/CarController
 
 
